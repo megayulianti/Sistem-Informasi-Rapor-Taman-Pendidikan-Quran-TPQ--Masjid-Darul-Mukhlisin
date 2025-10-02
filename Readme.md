@@ -1,30 +1,5 @@
-# Nova Free Bootstrap 5 Business Template 
+Website Sistem Informasi Rapor Taman Pendidikan Quran(TPQ) Masjid Darul Mukhlisin Mei 2025
 
-#### Preview
+HTML,Tailwind CSS, Bootstrap, Javascript, PHP
 
- - [Demo](https://themewagon.github.io/Nova-Bootstrap-5/)
-
-![Uploading image.png…]()
-
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/nova-bootstrap/)
-
-## Getting Started
-
-Clone from Github
-
-```
-git clone https://github.com/themewagon/Nova-Bootstrap-5.git
-```
-## Author
-
-Design and code is completely written by Freebiesbug's design and development team.  
-
-
-## License
-
- - Design and Code is Copyright &copy; [Freebiesbug](https://freebiesbug.com/)
- - Licensed cover under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
-
-
+●Website ini dirancang untuk memfasilitasi pengelolaan nilai santri TPQ Masjid Darul Mukhlisin secara digital dengan akses login khusus bagi admin, guru, dan ketua masjid, serta dilengkapi fitur pengelolaan data santri, input dan rekap nilai, pencetakan rapor otomatis, sehingga proses evaluasi dan pelaporan hasil belajar santri menjadi lebih cepat, akurat, dan terstruktur.
